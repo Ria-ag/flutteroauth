@@ -1,6 +1,6 @@
 {
-  "name": "OAuthSwift redirect",
-  "description": "OAuthSwift redirect",
-  "repository": "https://github.com/dongri/oauthswift.herokuapp.com",
-  "keywords": ["oauthswift"]
+  "name": "Flutter Oauth Redirect",
+  "description": "flutter Oauth redirect",
+  "repository": "https://github.com/ria-ag/flutteroauth",
+  "keywords": ["flutteroauth"]
 }
